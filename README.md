@@ -1,16 +1,45 @@
-## Hi there 👋
+## 👋 Hi, I'm Rajkishor
 
-<!--
-**raj0094/raj0094** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Undergraduate CSE student | Learning and growing every day 🌱
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🌱 I’m currently learning **Data Structures & Algorithms** and **Machine Learning basics**
+- 👯 I’m looking to collaborate on **open source** and **learning projects**
+- 🤔 I’m improving my **clean code skills** and understanding of **DSA & ML fundamentals**
+- 💬 Ask me about **Java, JavaScript, DSA basics, ML basics, and MERN stack**
+
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+- Java  
+- JavaScript  
+
+**Core CS:**  
+- Data Structures & Algorithms
+  
+
+**Web Development:**  
+- MongoDB  
+- Express.js  
+- React  
+- Node.js (MERN Stack)
+
+**Learning:**  
+- Machine Learning fundamentals
+
+---
+
+### 📫 Connect With Me
+ 
+- LinkedIn: *www.linkedin.com/in/rajkishor0094*
+- Email : rajkishorkumar0094@gmail.com 
+
+---
+
+⭐ * learning and growing.*
