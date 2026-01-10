@@ -32,6 +32,7 @@
 
 **Learning:**  
 - Machine Learning fundamentals
+- genAI
 
 ---
 
